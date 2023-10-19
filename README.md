@@ -1,4 +1,4 @@
-![Hue Master 3000](images/0-hm3k.png)
+![Hue Master 3000](images/renders/HM3K%20v72.png)
 
 # Hue Master 3000
 The HM3K is a custom designed and built 3D printing MMU
