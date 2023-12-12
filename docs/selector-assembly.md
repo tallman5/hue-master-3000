@@ -10,3 +10,7 @@
    <br /><img src="../images/assembly/Flange Mount and Rod.png" style="max-width: 200px; padding: 10px;"/>
 1. Screw the coupling to the mount using four M3x10 screws.
    <br /><img src="../images/assembly/Coupling and Mount.png" style="max-width: 200px; padding: 10px;"/>
+1. Screw stepper to stepper mount
+1. Add screws and nuts to stepper mount
+1. Slide on extrusion, flust with end
+1. Slide on shaft support
